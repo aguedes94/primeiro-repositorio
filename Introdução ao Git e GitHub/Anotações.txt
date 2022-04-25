@@ -1,0 +1,20 @@
+#Introdução ao Git e GitHub
+
+flags = complementos aos comandos; acrescentam, modificam ou formatam
+
+##Comandos windows
+dir - lista diretorios contidos na pasta
+cd - change directory - mudar de pasta
+cd .. - volta um nivel
+cls - clear screen - limpa o terminal
+mkdir - make directory - cria uma pasta
+echo - printa no terminal uma mensagem
+	echo "exemplo" > exemplo.txt - cria um doc de texto com a mensagem
+del - delete
+rmdir - remove directory - remove diretorio com todos os arquivos
+
+git init - inicia repositorio
+git add - mover arquivos
+git commit - criar commit
+git push - leva arquivos do repositorio local para o repositorio remoto
+	git push origin master
